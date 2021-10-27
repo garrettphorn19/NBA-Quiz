@@ -2,179 +2,417 @@
     "city": "New York",
     "name": "Knicks",
     "roster": [{
-        "fname": "J.",
+        "player_id": "203944",
+        "fname": "Julius",
         "lname": "Randle",
-        "position": "PF",
-        "player_id": "203944"
+        "position": "Forward-Center",
+        "college": "Kentucky",
+        "points": "25.5",
+        "rebounds": "11.3",
+        "assists": "6.5",
+        "height": "6'8\" (2.03m)",
+        "weight": "250lb (113kg)",
+        "age": "26 years"
     }, {
-        "fname": "K.",
+        "player_id": "202689",
+        "fname": "Kemba",
         "lname": "Walker",
-        "position": "PG",
-        "player_id": "202689"
+        "position": "Guard",
+        "college": "Connecticut",
+        "points": "12.5",
+        "rebounds": "2.8",
+        "assists": "3.0",
+        "height": "6'0\" (1.83m)",
+        "weight": "184lb (83kg)",
+        "age": "31 years"
     }, {
-        "fname": "E.",
+        "player_id": "203095",
+        "fname": "Evan",
         "lname": "Fournier",
-        "position": "SG",
-        "player_id": "203095"
+        "position": "Guard-Forward",
+        "college": "Poitiers Basket 86",
+        "points": "19.0",
+        "rebounds": "3.8",
+        "assists": "2.8",
+        "height": "6'6\" (1.98m)",
+        "weight": "205lb (93kg)",
+        "age": "28 years"
     }, {
-        "fname": "R.",
+        "player_id": "1629628",
+        "fname": "RJ",
         "lname": "Barrett",
-        "position": "SF",
-        "player_id": "1629628"
+        "position": "Forward-Guard",
+        "college": "Duke",
+        "points": "12.0",
+        "rebounds": "5.8",
+        "assists": "2.8",
+        "height": "6'6\" (1.98m)",
+        "weight": "214lb (97kg)",
+        "age": "21 years"
     }, {
-        "fname": "M.",
+        "player_id": "1629011",
+        "fname": "Mitchell",
         "lname": "Robinson",
-        "position": "C",
-        "player_id": "1629011"
+        "position": "Center-Forward",
+        "college": "Western Kentucky",
+        "points": "8.5",
+        "rebounds": "10.5",
+        "assists": "1.3",
+        "height": "7'0\" (2.13m)",
+        "weight": "240lb (109kg)",
+        "age": "23 years"
     }, {
-        "fname": "D.",
+        "player_id": "201565",
+        "fname": "Derrick",
         "lname": "Rose",
-        "position": "",
-        "player_id": "201565"
+        "position": "Guard",
+        "college": "Memphis",
+        "points": "14.3",
+        "rebounds": "3.0",
+        "assists": "4.0",
+        "height": "6'2\" (1.88m)",
+        "weight": "200lb (91kg)",
+        "age": "33 years"
     }, {
-        "fname": "T.",
+        "player_id": "201959",
+        "fname": "Taj",
         "lname": "Gibson",
-        "position": "",
-        "player_id": "201959"
+        "position": "Forward",
+        "college": "Southern California",
+        "points": "2.0",
+        "rebounds": "3.5",
+        "assists": "1.0",
+        "height": "6'9\" (2.06m)",
+        "weight": "232lb (105kg)",
+        "age": "36 years"
     }, {
-        "fname": "A.",
+        "player_id": "202692",
+        "fname": "Alec",
         "lname": "Burks",
-        "position": "",
-        "player_id": "202692"
+        "position": "Guard",
+        "college": "Colorado",
+        "points": "8.5",
+        "rebounds": "3.0",
+        "assists": "2.5",
+        "height": "6'6\" (1.98m)",
+        "weight": "214lb (97kg)",
+        "age": "30 years"
     }, {
-        "fname": "W.",
+        "player_id": "1627782",
+        "fname": "Wayne",
         "lname": "Selden",
-        "position": "",
-        "player_id": "1627782"
+        "position": "Guard",
+        "college": "Kansas",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'4\" (1.93m)",
+        "weight": "232lb (105kg)",
+        "age": "27 years"
     }, {
-        "fname": "K.",
-        "lname": "Knox",
-        "position": "",
-        "player_id": "1628995"
+        "player_id": "1628995",
+        "fname": "Kevin",
+        "lname": "Knox II",
+        "position": "Forward",
+        "college": "Kentucky",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "1.0",
+        "height": "6'7\" (2.01m)",
+        "weight": "215lb (98kg)",
+        "age": "22 years"
     }, {
-        "fname": "Q.",
+        "player_id": "1629656",
+        "fname": "Quentin",
         "lname": "Grimes",
-        "position": "",
-        "player_id": "1629656"
+        "position": "Guard",
+        "college": "Houston",
+        "points": "1.5",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'4\" (1.93m)",
+        "weight": "210lb (95kg)",
+        "age": "21 years"
     }, {
-        "fname": "O.",
+        "player_id": "1630167",
+        "fname": "Obi",
         "lname": "Toppin",
-        "position": "",
-        "player_id": "1630167"
+        "position": "Forward",
+        "college": "Dayton",
+        "points": "9.5",
+        "rebounds": "3.3",
+        "assists": "1.3",
+        "height": "6'9\" (2.06m)",
+        "weight": "220lb (100kg)",
+        "age": "23 years"
     }, {
-        "fname": "I.",
+        "player_id": "1630193",
+        "fname": "Immanuel",
         "lname": "Quickley",
-        "position": "",
-        "player_id": "1630193"
+        "position": "Guard",
+        "college": "Kentucky",
+        "points": "6.5",
+        "rebounds": "1.3",
+        "assists": "1.5",
+        "height": "6'3\" (1.91m)",
+        "weight": "190lb (86kg)",
+        "age": "22 years"
     }, {
-        "fname": "M.",
+        "player_id": "1630540",
+        "fname": "Miles",
         "lname": "McBride",
-        "position": "",
-        "player_id": "1630540"
+        "position": "Guard",
+        "college": "West Virginia",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'1\" (1.85m)",
+        "weight": "195lb (88kg)",
+        "age": "21 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630579",
+        "fname": "Jericho",
         "lname": "Sims",
-        "position": "",
-        "player_id": "1630579"
+        "position": "Center",
+        "college": "Texas-Austin",
+        "points": "1.5",
+        "rebounds": "2.5",
+        "assists": "--",
+        "height": "6'9\" (2.06m)",
+        "weight": "250lb (113kg)",
+        "age": "23 years"
     }, {
-        "fname": "N.",
+        "player_id": "203457",
+        "fname": "Nerlens",
         "lname": "Noel",
-        "position": "",
-        "player_id": "203457"
+        "position": "Center-Forward",
+        "college": "Kentucky",
+        "points": "5.1",
+        "rebounds": "6.4",
+        "assists": "0.7",
+        "height": "6'11\" (2.11m)",
+        "weight": "220lb (100kg)",
+        "age": "27 years"
     }, {
-        "fname": "L.",
+        "player_id": "1629677",
+        "fname": "Luka",
         "lname": "Samanic",
-        "position": "",
-        "player_id": "1629677"
+        "position": "Forward",
+        "college": "Union Olimpija",
+        "points": "3.7",
+        "rebounds": "2.1",
+        "assists": "0.5",
+        "height": "6'10\" (2.08m)",
+        "weight": "227lb (103kg)",
+        "age": "21 years"
     }]
 }, {
     "city": "Philadelphia",
     "name": "76ers",
     "roster": [{
-        "fname": "T.",
+        "player_id": "202699",
+        "fname": "Tobias",
         "lname": "Harris",
-        "position": "PF",
-        "player_id": "202699"
+        "position": "Forward",
+        "college": "Tennessee",
+        "points": "20.0",
+        "rebounds": "9.3",
+        "assists": "5.0",
+        "height": "6'7\" (2.01m)",
+        "weight": "226lb (103kg)",
+        "age": "29 years"
     }, {
-        "fname": "T.",
+        "player_id": "1630178",
+        "fname": "Tyrese",
         "lname": "Maxey",
-        "position": "PG",
-        "player_id": "1630178"
+        "position": "Guard",
+        "college": "Kentucky",
+        "points": "14.0",
+        "rebounds": "4.0",
+        "assists": "3.0",
+        "height": "6'2\" (1.88m)",
+        "weight": "200lb (91kg)",
+        "age": "20 years"
     }, {
-        "fname": "S.",
+        "player_id": "203552",
+        "fname": "Seth",
         "lname": "Curry",
-        "position": "SG",
-        "player_id": "203552"
+        "position": "Guard",
+        "college": "Duke",
+        "points": "16.3",
+        "rebounds": "2.8",
+        "assists": "1.5",
+        "height": "6'2\" (1.88m)",
+        "weight": "185lb (84kg)",
+        "age": "31 years"
     }, {
-        "fname": "D.",
+        "player_id": "201980",
+        "fname": "Danny",
         "lname": "Green",
-        "position": "SF",
-        "player_id": "201980"
+        "position": "Guard",
+        "college": "North Carolina",
+        "points": "7.3",
+        "rebounds": "2.8",
+        "assists": "--",
+        "height": "6'6\" (1.98m)",
+        "weight": "215lb (98kg)",
+        "age": "34 years"
     }, {
-        "fname": "J.",
+        "player_id": "203954",
+        "fname": "Joel",
         "lname": "Embiid",
-        "position": "C",
-        "player_id": "203954"
+        "position": "Center-Forward",
+        "college": "Kansas",
+        "points": "19.3",
+        "rebounds": "7.3",
+        "assists": "4.5",
+        "height": "7'0\" (2.13m)",
+        "weight": "280lb (127kg)",
+        "age": "27 years"
     }, {
-        "fname": "A.",
+        "player_id": "203083",
+        "fname": "Andre",
         "lname": "Drummond",
-        "position": "",
-        "player_id": "203083"
+        "position": "Center",
+        "college": "Connecticut",
+        "points": "5.3",
+        "rebounds": "12.0",
+        "assists": "2.3",
+        "height": "6'10\" (2.08m)",
+        "weight": "279lb (127kg)",
+        "age": "28 years"
     }, {
-        "fname": "G.",
+        "player_id": "1627777",
+        "fname": "Georges",
         "lname": "Niang",
-        "position": "",
-        "player_id": "1627777"
+        "position": "Forward",
+        "college": "Iowa State",
+        "points": "10.3",
+        "rebounds": "1.3",
+        "assists": "1.3",
+        "height": "6'7\" (2.01m)",
+        "weight": "230lb (104kg)",
+        "age": "28 years"
     }, {
-        "fname": "F.",
+        "player_id": "1627788",
+        "fname": "Furkan",
         "lname": "Korkmaz",
-        "position": "",
-        "player_id": "1627788"
+        "position": "Guard-Forward",
+        "college": "Anadolu Efes",
+        "points": "12.5",
+        "rebounds": "1.5",
+        "assists": "3.3",
+        "height": "6'7\" (2.01m)",
+        "weight": "202lb (92kg)",
+        "age": "24 years"
     }, {
-        "fname": "C.",
+        "player_id": "1629646",
+        "fname": "Charles",
         "lname": "Bassey",
-        "position": "",
-        "player_id": "1629646"
+        "position": "Center-Forward",
+        "college": "Western Kentucky",
+        "points": "2.0",
+        "rebounds": "1.0",
+        "assists": "--",
+        "height": "6'9\" (2.06m)",
+        "weight": "230lb (104kg)",
+        "age": "20 years"
     }, {
-        "fname": "M.",
+        "player_id": "1629680",
+        "fname": "Matisse",
         "lname": "Thybulle",
-        "position": "",
-        "player_id": "1629680"
+        "position": "Guard-Forward",
+        "college": "Washington",
+        "points": "3.8",
+        "rebounds": "2.3",
+        "assists": "1.0",
+        "height": "6'5\" (1.96m)",
+        "weight": "201lb (91kg)",
+        "age": "24 years"
     }, {
-        "fname": "P.",
+        "player_id": "1630194",
+        "fname": "Paul",
         "lname": "Reed",
-        "position": "",
-        "player_id": "1630194"
+        "position": "Forward",
+        "college": "DePaul",
+        "points": "1.3",
+        "rebounds": "2.0",
+        "assists": "1.3",
+        "height": "6'9\" (2.06m)",
+        "weight": "210lb (95kg)",
+        "age": "22 years"
     }, {
-        "fname": "I.",
+        "player_id": "1630198",
+        "fname": "Isaiah",
         "lname": "Joe",
-        "position": "",
-        "player_id": "1630198"
+        "position": "Guard",
+        "college": "Arkansas",
+        "points": "0.8",
+        "rebounds": "0.3",
+        "assists": "0.3",
+        "height": "6'4\" (1.93m)",
+        "weight": "165lb (75kg)",
+        "age": "22 years"
     }, {
-        "fname": "B.",
+        "player_id": "1627732",
+        "fname": "Ben",
         "lname": "Simmons",
-        "position": "",
-        "player_id": "1627732"
+        "position": "Guard-Forward",
+        "college": "Louisiana State",
+        "points": "14.3",
+        "rebounds": "7.2",
+        "assists": "6.9",
+        "height": "6'11\" (2.11m)",
+        "weight": "240lb (109kg)",
+        "age": "25 years"
     }, {
-        "fname": "S.",
+        "player_id": "1629003",
+        "fname": "Shake",
         "lname": "Milton",
-        "position": "",
-        "player_id": "1629003"
+        "position": "Guard-Forward",
+        "college": "Southern Methodist",
+        "points": "13.0",
+        "rebounds": "2.3",
+        "assists": "3.1",
+        "height": "6'5\" (1.96m)",
+        "weight": "205lb (93kg)",
+        "age": "25 years"
     }, {
-        "fname": "G.",
+        "player_id": "1630203",
+        "fname": "Grant",
         "lname": "Riller",
-        "position": "",
-        "player_id": "1630203"
+        "position": "Guard",
+        "college": "College of Charleston",
+        "points": "2.6",
+        "rebounds": "0.1",
+        "assists": "0.4",
+        "height": "6'1\" (1.85m)",
+        "weight": "190lb (86kg)",
+        "age": "24 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630531",
+        "fname": "Jaden",
         "lname": "Springer",
-        "position": "",
-        "player_id": "1630531"
+        "position": "Guard",
+        "college": "Tennessee",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'4\" (1.93m)",
+        "weight": "202lb (92kg)",
+        "age": "19 years"
     }, {
-        "fname": "A.",
+        "player_id": "1630565",
+        "fname": "Aaron",
         "lname": "Henry",
-        "position": "",
-        "player_id": "1630565"
+        "position": "Forward",
+        "college": "Michigan State",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'5\" (1.96m)",
+        "weight": "210lb (95kg)",
+        "age": "22 years"
     }]
 }, {
     "city": "Toronto",
@@ -232,85 +470,197 @@
     "city": "Utah",
     "name": "Jazz",
     "roster": [{
-        "fname": "R.",
+        "player_id": "1626220",
+        "fname": "Royce",
         "lname": "O'Neale",
-        "position": "PF",
-        "player_id": "1626220"
+        "position": "Forward",
+        "college": "Baylor",
+        "points": "4.3",
+        "rebounds": "4.3",
+        "assists": "1.7",
+        "height": "6'5\" (1.96m)",
+        "weight": "226lb (103kg)",
+        "age": "28 years"
     }, {
-        "fname": "M.",
+        "player_id": "201144",
+        "fname": "Mike",
         "lname": "Conley",
-        "position": "PG",
-        "player_id": "201144"
+        "position": "Guard",
+        "college": "Ohio State",
+        "points": "14.0",
+        "rebounds": "1.3",
+        "assists": "4.0",
+        "height": "6'1\" (1.85m)",
+        "weight": "175lb (79kg)",
+        "age": "34 years"
     }, {
-        "fname": "D.",
+        "player_id": "1628378",
+        "fname": "Donovan",
         "lname": "Mitchell",
-        "position": "SG",
-        "player_id": "1628378"
+        "position": "Guard",
+        "college": "Louisville",
+        "points": "21.7",
+        "rebounds": "3.3",
+        "assists": "4.7",
+        "height": "6'1\" (1.85m)",
+        "weight": "215lb (98kg)",
+        "age": "25 years"
     }, {
-        "fname": "B.",
+        "player_id": "202711",
+        "fname": "Bojan",
         "lname": "Bogdanovic",
-        "position": "SF",
-        "player_id": "202711"
+        "position": "Forward",
+        "college": "Fenerbahce",
+        "points": "16.7",
+        "rebounds": "3.7",
+        "assists": "1.0",
+        "height": "6'7\" (2.01m)",
+        "weight": "226lb (103kg)",
+        "age": "32 years"
     }, {
-        "fname": "R.",
+        "player_id": "203497",
+        "fname": "Rudy",
         "lname": "Gobert",
-        "position": "C",
-        "player_id": "203497"
+        "position": "Center",
+        "college": "Cholet",
+        "points": "18.7",
+        "rebounds": "19.0",
+        "assists": "0.7",
+        "height": "7'1\" (2.16m)",
+        "weight": "258lb (117kg)",
+        "age": "29 years"
     }, {
-        "fname": "H.",
+        "player_id": "202355",
+        "fname": "Hassan",
         "lname": "Whiteside",
-        "position": "",
-        "player_id": "202355"
+        "position": "Center",
+        "college": "Marshall",
+        "points": "8.0",
+        "rebounds": "7.7",
+        "assists": "0.3",
+        "height": "7'0\" (2.13m)",
+        "weight": "265lb (120kg)",
+        "age": "32 years"
     }, {
-        "fname": "J.",
+        "player_id": "203903",
+        "fname": "Jordan",
         "lname": "Clarkson",
-        "position": "",
-        "player_id": "203903"
+        "position": "Guard",
+        "college": "Missouri",
+        "points": "17.3",
+        "rebounds": "3.0",
+        "assists": "1.3",
+        "height": "6'4\" (1.93m)",
+        "weight": "194lb (88kg)",
+        "age": "29 years"
     }, {
-        "fname": "J.",
+        "player_id": "204060",
+        "fname": "Joe",
         "lname": "Ingles",
-        "position": "",
-        "player_id": "204060"
+        "position": "Forward-Guard",
+        "college": "Maccabi Tel Aviv",
+        "points": "9.0",
+        "rebounds": "2.7",
+        "assists": "2.3",
+        "height": "6'8\" (2.03m)",
+        "weight": "220lb (100kg)",
+        "age": "34 years"
     }, {
-        "fname": "U.",
+        "player_id": "1628962",
+        "fname": "Udoka",
         "lname": "Azubuike",
-        "position": "",
-        "player_id": "1628962"
+        "position": "Center-Forward",
+        "college": "Kansas",
+        "points": "1.1",
+        "rebounds": "0.9",
+        "assists": "--",
+        "height": "6'10\" (2.08m)",
+        "weight": "280lb (127kg)",
+        "age": "22 years"
     }, {
-        "fname": "E.",
+        "player_id": "1629672",
+        "fname": "Eric",
         "lname": "Paschall",
-        "position": "",
-        "player_id": "1629672"
+        "position": "Forward",
+        "college": "Villanova",
+        "points": "2.0",
+        "rebounds": "2.7",
+        "assists": "1.0",
+        "height": "6'6\" (1.98m)",
+        "weight": "255lb (116kg)",
+        "age": "24 years"
     }, {
-        "fname": "E.",
+        "player_id": "1630190",
+        "fname": "Elijah",
         "lname": "Hughes",
-        "position": "",
-        "player_id": "1630190"
+        "position": "Guard",
+        "college": "Syracuse",
+        "points": "2.0",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'5\" (1.96m)",
+        "weight": "215lb (98kg)",
+        "age": "23 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630215",
+        "fname": "Jared",
         "lname": "Butler",
-        "position": "",
-        "player_id": "1630215"
+        "position": "Guard",
+        "college": "Baylor",
+        "points": "--",
+        "rebounds": "0.3",
+        "assists": "0.3",
+        "height": "6'3\" (1.91m)",
+        "weight": "193lb (88kg)",
+        "age": "21 years"
     }, {
-        "fname": "T.",
+        "player_id": "1630235",
+        "fname": "Trent",
         "lname": "Forrest",
-        "position": "",
-        "player_id": "1630235"
+        "position": "Guard",
+        "college": "Florida State",
+        "points": "2.0",
+        "rebounds": "--",
+        "assists": "2.0",
+        "height": "6'4\" (1.93m)",
+        "weight": "210lb (95kg)",
+        "age": "23 years"
     }, {
-        "fname": "M.",
+        "player_id": "1630238",
+        "fname": "Malik",
         "lname": "Fitts",
-        "position": "",
-        "player_id": "1630238"
+        "position": "Forward",
+        "college": "St. Mary's College",
+        "points": "--",
+        "rebounds": "1.0",
+        "assists": "--",
+        "height": "6'5\" (1.96m)",
+        "weight": "230lb (104kg)",
+        "age": "24 years"
     }, {
-        "fname": "R.",
+        "player_id": "200752",
+        "fname": "Rudy",
         "lname": "Gay",
-        "position": "",
-        "player_id": "200752"
+        "position": "Forward-Guard",
+        "college": "Connecticut",
+        "points": "11.4",
+        "rebounds": "4.8",
+        "assists": "1.4",
+        "height": "6'8\" (2.03m)",
+        "weight": "250lb (113kg)",
+        "age": "35 years"
     }, {
-        "fname": "M.",
+        "player_id": "1629671",
+        "fname": "Miye",
         "lname": "Oni",
-        "position": "",
-        "player_id": "1629671"
+        "position": "Guard-Forward",
+        "college": "Yale",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'5\" (1.96m)",
+        "weight": "206lb (93kg)",
+        "age": "24 years"
     }]
 }, {
     "city": "Minnestota",
@@ -320,90 +670,209 @@
     "city": "Denver",
     "name": "Nuggets",
     "roster": [{
-        "fname": "A.",
+        "player_id": "203932",
+        "fname": "Aaron",
         "lname": "Gordon",
-        "position": "PF",
-        "player_id": "203932"
+        "position": "Forward",
+        "college": "Arizona",
+        "points": "13.0",
+        "rebounds": "7.3",
+        "assists": "1.8",
+        "height": "6'8\" (2.03m)",
+        "weight": "235lb (107kg)",
+        "age": "26 years"
     }, {
-        "fname": "M.",
+        "player_id": "1628420",
+        "fname": "Monte",
         "lname": "Morris",
-        "position": "PG",
-        "player_id": "1628420"
+        "position": "Guard",
+        "college": "Iowa State",
+        "points": "10.8",
+        "rebounds": "1.5",
+        "assists": "3.5",
+        "height": "5'10\" (1.78m)",
+        "weight": "183lb (83kg)",
+        "age": "26 years"
     }, {
-        "fname": "W.",
+        "player_id": "203115",
+        "fname": "Will",
         "lname": "Barton",
-        "position": "SG",
-        "player_id": "203115"
+        "position": "Guard",
+        "college": "Memphis",
+        "points": "16.3",
+        "rebounds": "4.8",
+        "assists": "3.8",
+        "height": "6'5\" (1.96m)",
+        "weight": "181lb (82kg)",
+        "age": "30 years"
     }, {
-        "fname": "M.",
-        "lname": "Porter",
-        "position": "SF",
-        "player_id": "1629008"
+        "player_id": "1629008",
+        "fname": "Michael",
+        "lname": "Porter Jr.",
+        "position": "Forward",
+        "college": "Missouri",
+        "points": "11.5",
+        "rebounds": "5.3",
+        "assists": "2.5",
+        "height": "6'10\" (2.08m)",
+        "weight": "218lb (99kg)",
+        "age": "23 years"
     }, {
-        "fname": "N.",
+        "player_id": "203999",
+        "fname": "Nikola",
         "lname": "Jokic",
-        "position": "C",
-        "player_id": "203999"
+        "position": "Center",
+        "college": "Mega Basket",
+        "points": "26.8",
+        "rebounds": "13.5",
+        "assists": "4.5",
+        "height": "6'11\" (2.11m)",
+        "weight": "284lb (129kg)",
+        "age": "26 years"
     }, {
-        "fname": "J.",
+        "player_id": "201145",
+        "fname": "Jeff",
         "lname": "Green",
-        "position": "",
-        "player_id": "201145"
+        "position": "Forward",
+        "college": "Georgetown",
+        "points": "7.0",
+        "rebounds": "1.3",
+        "assists": "1.0",
+        "height": "6'8\" (2.03m)",
+        "weight": "235lb (107kg)",
+        "age": "35 years"
     }, {
-        "fname": "A.",
+        "player_id": "203085",
+        "fname": "Austin",
         "lname": "Rivers",
-        "position": "",
-        "player_id": "203085"
+        "position": "Guard",
+        "college": "Duke",
+        "points": "1.8",
+        "rebounds": "0.8",
+        "assists": "0.5",
+        "height": "6'4\" (1.93m)",
+        "weight": "200lb (91kg)",
+        "age": "29 years"
     }, {
-        "fname": "J.",
+        "player_id": "203210",
+        "fname": "JaMychal",
         "lname": "Green",
-        "position": "",
-        "player_id": "203210"
+        "position": "Forward-Center",
+        "college": "Alabama",
+        "points": "3.5",
+        "rebounds": "2.0",
+        "assists": "0.5",
+        "height": "6'8\" (2.03m)",
+        "weight": "227lb (103kg)",
+        "age": "31 years"
     }, {
-        "fname": "P.",
+        "player_id": "1627822",
+        "fname": "Petr",
         "lname": "Cornelie",
-        "position": "",
-        "player_id": "1627822"
+        "position": "Forward",
+        "college": "France",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'11\" (2.11m)",
+        "weight": "220lb (100kg)",
+        "age": "26 years"
     }, {
-        "fname": "P.",
+        "player_id": "1628408",
+        "fname": "P.J.",
         "lname": "Dozier",
-        "position": "",
-        "player_id": "1628408"
+        "position": "Guard-Forward",
+        "college": "South Carolina",
+        "points": "5.3",
+        "rebounds": "2.5",
+        "assists": "1.3",
+        "height": "6'6\" (1.98m)",
+        "weight": "205lb (93kg)",
+        "age": "25 years"
     }, {
-        "fname": "B.",
+        "player_id": "1629626",
+        "fname": "Bol",
         "lname": "Bol",
-        "position": "",
-        "player_id": "1629626"
+        "position": "Center-Forward",
+        "college": "Oregon",
+        "points": "2.0",
+        "rebounds": "1.0",
+        "assists": "--",
+        "height": "7'2\" (2.18m)",
+        "weight": "220lb (100kg)",
+        "age": "21 years"
     }, {
-        "fname": "Z.",
+        "player_id": "1630192",
+        "fname": "Zeke",
         "lname": "Nnaji",
-        "position": "",
-        "player_id": "1630192"
+        "position": "Forward-Center",
+        "college": "Arizona",
+        "points": "3.0",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'9\" (2.06m)",
+        "weight": "240lb (109kg)",
+        "age": "20 years"
     }, {
-        "fname": "M.",
+        "player_id": "1630210",
+        "fname": "Markus",
         "lname": "Howard",
-        "position": "",
-        "player_id": "1630210"
+        "position": "Guard",
+        "college": "Marquette",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "5'10\" (1.78m)",
+        "weight": "175lb (79kg)",
+        "age": "22 years"
     }, {
-        "fname": "F.",
+        "player_id": "1630267",
+        "fname": "Facundo",
         "lname": "Campazzo",
-        "position": "",
-        "player_id": "1630267"
+        "position": "Guard",
+        "college": "Murcia",
+        "points": "3.5",
+        "rebounds": "2.8",
+        "assists": "3.0",
+        "height": "5'10\" (1.78m)",
+        "weight": "195lb (88kg)",
+        "age": "30 years"
     }, {
-        "fname": "B.",
+        "player_id": "1630538",
+        "fname": "Bones",
         "lname": "Hyland",
-        "position": "",
-        "player_id": "1630538"
+        "position": "Guard",
+        "college": "Virginia Commonwealth",
+        "points": "7.0",
+        "rebounds": "2.0",
+        "assists": "2.0",
+        "height": "6'2\" (1.88m)",
+        "weight": "169lb (77kg)",
+        "age": "21 years"
     }, {
-        "fname": "J.",
+        "player_id": "1627750",
+        "fname": "Jamal",
         "lname": "Murray",
-        "position": "",
-        "player_id": "1627750"
+        "position": "Guard",
+        "college": "Kentucky",
+        "points": "21.2",
+        "rebounds": "4.0",
+        "assists": "4.8",
+        "height": "6'3\" (1.91m)",
+        "weight": "215lb (98kg)",
+        "age": "24 years"
     }, {
-        "fname": "V.",
+        "player_id": "1628427",
+        "fname": "Vlatko",
         "lname": "Cancar",
-        "position": "",
-        "player_id": "1628427"
+        "position": "Forward",
+        "college": "San Pablo Burgos",
+        "points": "2.1",
+        "rebounds": "1.2",
+        "assists": "0.3",
+        "height": "6'8\" (2.03m)",
+        "weight": "236lb (107kg)",
+        "age": "24 years"
     }]
 }, {
     "city": "Portland",
@@ -413,179 +882,417 @@
     "city": "Oklahoma City",
     "name": "Thunder",
     "roster": [{
-        "fname": "D.",
+        "player_id": "1629647",
+        "fname": "Darius",
         "lname": "Bazley",
-        "position": "PF",
-        "player_id": "1629647"
+        "position": "Forward",
+        "college": "Princeton HS (OH)",
+        "points": "8.8",
+        "rebounds": "6.3",
+        "assists": "1.8",
+        "height": "6'8\" (2.03m)",
+        "weight": "208lb (94kg)",
+        "age": "21 years"
     }, {
-        "fname": "S.",
+        "player_id": "1628983",
+        "fname": "Shai",
         "lname": "Gilgeous-Alexander",
-        "position": "PG",
-        "player_id": "1628983"
+        "position": "Guard",
+        "college": "Kentucky",
+        "points": "22.5",
+        "rebounds": "3.8",
+        "assists": "4.0",
+        "height": "6'6\" (1.98m)",
+        "weight": "180lb (82kg)",
+        "age": "23 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630581",
+        "fname": "Josh",
         "lname": "Giddey",
-        "position": "SG",
-        "player_id": "1630581"
+        "position": "Guard",
+        "college": "NBA Global Academy",
+        "points": "9.0",
+        "rebounds": "7.3",
+        "assists": "4.5",
+        "height": "6'8\" (2.03m)",
+        "weight": "205lb (93kg)",
+        "age": "19 years"
     }, {
-        "fname": "L.",
+        "player_id": "1629652",
+        "fname": "Luguentz",
         "lname": "Dort",
-        "position": "SF",
-        "player_id": "1629652"
+        "position": "Guard",
+        "college": "Arizona State",
+        "points": "9.8",
+        "rebounds": "3.8",
+        "assists": "3.0",
+        "height": "6'3\" (1.91m)",
+        "weight": "215lb (98kg)",
+        "age": "22 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630526",
+        "fname": "Jeremiah",
         "lname": "Robinson-Earl",
-        "position": "C",
-        "player_id": "1630526"
+        "position": "Forward",
+        "college": "Villanova",
+        "points": "7.8",
+        "rebounds": "4.3",
+        "assists": "0.3",
+        "height": "6'8\" (2.03m)",
+        "weight": "242lb (110kg)",
+        "age": "20 years"
     }, {
-        "fname": "M.",
+        "player_id": "203488",
+        "fname": "Mike",
         "lname": "Muscala",
-        "position": "",
-        "player_id": "203488"
+        "position": "Forward-Center",
+        "college": "Bucknell",
+        "points": "10.0",
+        "rebounds": "3.0",
+        "assists": "0.3",
+        "height": "6'10\" (2.08m)",
+        "weight": "240lb (109kg)",
+        "age": "30 years"
     }, {
-        "fname": "K.",
+        "player_id": "1629026",
+        "fname": "Kenrich",
         "lname": "Williams",
-        "position": "",
-        "player_id": "1629026"
+        "position": "Guard-Forward",
+        "college": "TCU",
+        "points": "9.0",
+        "rebounds": "2.8",
+        "assists": "2.0",
+        "height": "6'6\" (1.98m)",
+        "weight": "210lb (95kg)",
+        "age": "26 years"
     }, {
-        "fname": "T.",
+        "player_id": "1629660",
+        "fname": "Ty",
         "lname": "Jerome",
-        "position": "",
-        "player_id": "1629660"
+        "position": "Guard-Forward",
+        "college": "Virginia",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "1.0",
+        "height": "6'5\" (1.96m)",
+        "weight": "195lb (88kg)",
+        "age": "24 years"
     }, {
-        "fname": "I.",
+        "player_id": "1629676",
+        "fname": "Isaiah",
         "lname": "Roby",
-        "position": "",
-        "player_id": "1629676"
+        "position": "Forward",
+        "college": "Nebraska-Lincoln",
+        "points": "3.7",
+        "rebounds": "2.3",
+        "assists": "0.3",
+        "height": "6'8\" (2.03m)",
+        "weight": "230lb (104kg)",
+        "age": "23 years"
     }, {
-        "fname": "T.",
+        "player_id": "1630177",
+        "fname": "Theo",
         "lname": "Maledon",
-        "position": "",
-        "player_id": "1630177"
+        "position": "Guard",
+        "college": "Asvel",
+        "points": "3.0",
+        "rebounds": "1.3",
+        "assists": "2.0",
+        "height": "6'4\" (1.93m)",
+        "weight": "175lb (79kg)",
+        "age": "20 years"
     }, {
-        "fname": "A.",
+        "player_id": "1630197",
+        "fname": "Aleksej",
         "lname": "Pokusevski",
-        "position": "",
-        "player_id": "1630197"
+        "position": "Forward",
+        "college": "Olympiacos",
+        "points": "5.8",
+        "rebounds": "3.8",
+        "assists": "1.8",
+        "height": "7'0\" (2.13m)",
+        "weight": "190lb (86kg)",
+        "age": "19 years"
     }, {
-        "fname": "V.",
+        "player_id": "1630249",
+        "fname": "Vit",
         "lname": "Krejci",
-        "position": "",
-        "player_id": "1630249"
+        "position": "Guard",
+        "college": "Zaragoza",
+        "points": "1.0",
+        "rebounds": "1.0",
+        "assists": "--",
+        "height": "6'8\" (2.03m)",
+        "weight": "195lb (88kg)",
+        "age": "21 years"
     }, {
-        "fname": "G.",
+        "player_id": "1630466",
+        "fname": "Gabriel",
         "lname": "Deck",
-        "position": "",
-        "player_id": "1630466"
+        "position": "Forward",
+        "college": "Real Madrid",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "1.0",
+        "height": "6'6\" (1.98m)",
+        "weight": "231lb (105kg)",
+        "age": "26 years"
     }, {
-        "fname": "T.",
+        "player_id": "1630544",
+        "fname": "Tre",
         "lname": "Mann",
-        "position": "",
-        "player_id": "1630544"
+        "position": "Guard",
+        "college": "Florida",
+        "points": "5.3",
+        "rebounds": "1.0",
+        "assists": "0.3",
+        "height": "6'3\" (1.91m)",
+        "weight": "178lb (81kg)",
+        "age": "20 years"
     }, {
-        "fname": "A.",
+        "player_id": "1630598",
+        "fname": "Aaron",
         "lname": "Wiggins",
-        "position": "",
-        "player_id": "1630598"
+        "position": "Guard",
+        "college": "Maryland",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'4\" (1.93m)",
+        "weight": "190lb (86kg)",
+        "age": "22 years"
     }, {
-        "fname": "D.",
+        "player_id": "202324",
+        "fname": "Derrick",
         "lname": "Favors",
-        "position": "",
-        "player_id": "202324"
+        "position": "Forward",
+        "college": "Georgia Tech",
+        "points": "4.0",
+        "rebounds": "6.3",
+        "assists": "0.7",
+        "height": "6'9\" (2.06m)",
+        "weight": "265lb (120kg)",
+        "age": "30 years"
     }, {
-        "fname": "P.",
+        "player_id": "1628778",
+        "fname": "Paul",
         "lname": "Watson",
-        "position": "",
-        "player_id": "1628778"
+        "position": "Guard",
+        "college": "Fresno State",
+        "points": "4.1",
+        "rebounds": "1.7",
+        "assists": "0.6",
+        "height": "6'6\" (1.98m)",
+        "weight": "210lb (95kg)",
+        "age": "26 years"
     }]
 }, {
     "city": "Golden State",
     "name": "Warriors",
     "roster": [{
-        "fname": "D.",
+        "player_id": "203110",
+        "fname": "Draymond",
         "lname": "Green",
-        "position": "PF",
-        "player_id": "203110"
+        "position": "Forward",
+        "college": "Michigan State",
+        "points": "9.5",
+        "rebounds": "7.3",
+        "assists": "6.8",
+        "height": "6'6\" (1.98m)",
+        "weight": "230lb (104kg)",
+        "age": "31 years"
     }, {
-        "fname": "S.",
+        "player_id": "201939",
+        "fname": "Stephen",
         "lname": "Curry",
-        "position": "PG",
-        "player_id": "201939"
+        "position": "Guard",
+        "college": "Davidson",
+        "points": "29.0",
+        "rebounds": "8.3",
+        "assists": "6.3",
+        "height": "6'2\" (1.88m)",
+        "weight": "185lb (84kg)",
+        "age": "33 years"
     }, {
-        "fname": "J.",
+        "player_id": "1629673",
+        "fname": "Jordan",
         "lname": "Poole",
-        "position": "SG",
-        "player_id": "1629673"
+        "position": "Guard",
+        "college": "Michigan",
+        "points": "15.3",
+        "rebounds": "2.8",
+        "assists": "4.3",
+        "height": "6'4\" (1.93m)",
+        "weight": "194lb (88kg)",
+        "age": "22 years"
     }, {
-        "fname": "A.",
+        "player_id": "203952",
+        "fname": "Andrew",
         "lname": "Wiggins",
-        "position": "SF",
-        "player_id": "203952"
+        "position": "Forward",
+        "college": "Kansas",
+        "points": "16.8",
+        "rebounds": "5.3",
+        "assists": "2.0",
+        "height": "6'7\" (2.01m)",
+        "weight": "197lb (89kg)",
+        "age": "26 years"
     }, {
-        "fname": "K.",
+        "player_id": "1626172",
+        "fname": "Kevon",
         "lname": "Looney",
-        "position": "C",
-        "player_id": "1626172"
+        "position": "Forward",
+        "college": "UCLA",
+        "points": "6.5",
+        "rebounds": "5.8",
+        "assists": "0.8",
+        "height": "6'9\" (2.06m)",
+        "weight": "222lb (101kg)",
+        "age": "25 years"
     }, {
-        "fname": "A.",
+        "player_id": "2738",
+        "fname": "Andre",
         "lname": "Iguodala",
-        "position": "",
-        "player_id": "2738"
+        "position": "Guard-Forward",
+        "college": "Arizona",
+        "points": "6.3",
+        "rebounds": "4.0",
+        "assists": "2.7",
+        "height": "6'6\" (1.98m)",
+        "weight": "215lb (98kg)",
+        "age": "37 years"
     }, {
-        "fname": "N.",
+        "player_id": "202357",
+        "fname": "Nemanja",
         "lname": "Bjelica",
-        "position": "",
-        "player_id": "202357"
+        "position": "Forward",
+        "college": "Fenerbahce",
+        "points": "6.3",
+        "rebounds": "5.5",
+        "assists": "1.3",
+        "height": "6'9\" (2.06m)",
+        "weight": "234lb (106kg)",
+        "age": "33 years"
     }, {
-        "fname": "O.",
-        "lname": "Porter",
-        "position": "",
-        "player_id": "203490"
+        "player_id": "203490",
+        "fname": "Otto",
+        "lname": "Porter Jr.",
+        "position": "Forward",
+        "college": "Georgetown",
+        "points": "5.0",
+        "rebounds": "5.3",
+        "assists": "1.5",
+        "height": "6'8\" (2.03m)",
+        "weight": "198lb (90kg)",
+        "age": "28 years"
     }, {
-        "fname": "G.",
-        "lname": "Payton",
-        "position": "",
-        "player_id": "1627780"
+        "player_id": "1627780",
+        "fname": "Gary",
+        "lname": "Payton II",
+        "position": "Guard",
+        "college": "Oregon State",
+        "points": "3.3",
+        "rebounds": "0.5",
+        "assists": "0.3",
+        "height": "6'3\" (1.91m)",
+        "weight": "195lb (88kg)",
+        "age": "28 years"
     }, {
-        "fname": "D.",
+        "player_id": "1627814",
+        "fname": "Damion",
         "lname": "Lee",
-        "position": "",
-        "player_id": "1627814"
+        "position": "Guard-Forward",
+        "college": "Drexel",
+        "points": "14.3",
+        "rebounds": "2.3",
+        "assists": "1.3",
+        "height": "6'5\" (1.96m)",
+        "weight": "210lb (95kg)",
+        "age": "29 years"
     }, {
-        "fname": "C.",
+        "player_id": "1629185",
+        "fname": "Chris",
         "lname": "Chiozza",
-        "position": "",
-        "player_id": "1629185"
+        "position": "Guard",
+        "college": "Florida",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "1.0",
+        "height": "5'11\" (1.80m)",
+        "weight": "175lb (79kg)",
+        "age": "25 years"
     }, {
-        "fname": "J.",
+        "player_id": "1629308",
+        "fname": "Juan",
         "lname": "Toscano-Anderson",
-        "position": "",
-        "player_id": "1629308"
+        "position": "Forward",
+        "college": "Marquette",
+        "points": "4.3",
+        "rebounds": "1.8",
+        "assists": "1.3",
+        "height": "6'6\" (1.98m)",
+        "weight": "209lb (95kg)",
+        "age": "28 years"
     }, {
-        "fname": "M.",
+        "player_id": "1630541",
+        "fname": "Moses",
         "lname": "Moody",
-        "position": "",
-        "player_id": "1630541"
+        "position": "Guard",
+        "college": "Arkansas",
+        "points": "0.7",
+        "rebounds": "0.7",
+        "assists": "0.7",
+        "height": "6'5\" (1.96m)",
+        "weight": "211lb (96kg)",
+        "age": "19 years"
     }, {
-        "fname": "K.",
+        "player_id": "202691",
+        "fname": "Klay",
         "lname": "Thompson",
-        "position": "",
-        "player_id": "202691"
+        "position": "Guard",
+        "college": "Washington State",
+        "points": "21.5",
+        "rebounds": "3.8",
+        "assists": "2.4",
+        "height": "6'6\" (1.98m)",
+        "weight": "215lb (98kg)",
+        "age": "31 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630164",
+        "fname": "James",
         "lname": "Wiseman",
-        "position": "",
-        "player_id": "1630164"
+        "position": "Center",
+        "college": "Memphis",
+        "points": "11.5",
+        "rebounds": "5.8",
+        "assists": "0.7",
+        "height": "7'0\" (2.13m)",
+        "weight": "240lb (109kg)",
+        "age": "20 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630228",
+        "fname": "Jonathan",
         "lname": "Kuminga",
-        "position": "",
-        "player_id": "1630228"
+        "position": "Forward",
+        "college": "NBA G League Ignite",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'7\" (2.01m)",
+        "weight": "225lb (102kg)",
+        "age": "19 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630288",
+        "fname": "Jeff",
         "lname": "Dowtin",
-        "position": "",
-        "player_id": "1630288"
+        "position": "Guard",
+        "college": "Rhode Island",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'3\" (1.91m)",
+        "weight": "185lb (84kg)",
+        "age": "24 years"
     }]
 }, {
     "city": "Phoenix",
@@ -595,90 +1302,209 @@
     "city": "Los Angeles",
     "name": "Lakers",
     "roster": [{
-        "fname": "A.",
+        "player_id": "203076",
+        "fname": "Anthony",
         "lname": "Davis",
-        "position": "PF",
-        "player_id": "203076"
+        "position": "Forward-Center",
+        "college": "Kentucky",
+        "points": "28.0",
+        "rebounds": "12.5",
+        "assists": "2.8",
+        "height": "6'10\" (2.08m)",
+        "weight": "253lb (115kg)",
+        "age": "28 years"
     }, {
-        "fname": "R.",
+        "player_id": "201566",
+        "fname": "Russell",
         "lname": "Westbrook",
-        "position": "PG",
-        "player_id": "201566"
+        "position": "Guard",
+        "college": "UCLA",
+        "points": "17.3",
+        "rebounds": "8.3",
+        "assists": "8.5",
+        "height": "6'3\" (1.91m)",
+        "weight": "200lb (91kg)",
+        "age": "32 years"
     }, {
-        "fname": "M.",
+        "player_id": "1628370",
+        "fname": "Malik",
         "lname": "Monk",
-        "position": "SG",
-        "player_id": "1628370"
+        "position": "Guard",
+        "college": "Kentucky",
+        "points": "10.5",
+        "rebounds": "1.8",
+        "assists": "2.3",
+        "height": "6'3\" (1.91m)",
+        "weight": "200lb (91kg)",
+        "age": "23 years"
     }, {
-        "fname": "K.",
+        "player_id": "203145",
+        "fname": "Kent",
         "lname": "Bazemore",
-        "position": "SF",
-        "player_id": "203145"
+        "position": "Guard-Forward",
+        "college": "Old Dominion",
+        "points": "7.0",
+        "rebounds": "2.0",
+        "assists": "0.5",
+        "height": "6'4\" (1.93m)",
+        "weight": "195lb (88kg)",
+        "age": "32 years"
     }, {
-        "fname": "D.",
+        "player_id": "201599",
+        "fname": "DeAndre",
         "lname": "Jordan",
-        "position": "C",
-        "player_id": "201599"
+        "position": "Center",
+        "college": "Texas A&M",
+        "points": "4.8",
+        "rebounds": "5.8",
+        "assists": "0.5",
+        "height": "6'11\" (2.11m)",
+        "weight": "265lb (120kg)",
+        "age": "33 years"
     }, {
-        "fname": "L.",
+        "player_id": "2544",
+        "fname": "LeBron",
         "lname": "James",
-        "position": "",
-        "player_id": "2544"
+        "position": "Forward",
+        "college": "St. Vincent-St. Mary HS (OH)",
+        "points": "26.0",
+        "rebounds": "6.3",
+        "assists": "5.3",
+        "height": "6'9\" (2.06m)",
+        "weight": "250lb (113kg)",
+        "age": "36 years"
     }, {
-        "fname": "C.",
+        "player_id": "2546",
+        "fname": "Carmelo",
         "lname": "Anthony",
-        "position": "",
-        "player_id": "2546"
+        "position": "Forward",
+        "college": "Syracuse",
+        "points": "14.3",
+        "rebounds": "4.0",
+        "assists": "1.0",
+        "height": "6'7\" (2.01m)",
+        "weight": "238lb (108kg)",
+        "age": "37 years"
     }, {
-        "fname": "D.",
+        "player_id": "2730",
+        "fname": "Dwight",
         "lname": "Howard",
-        "position": "",
-        "player_id": "2730"
+        "position": "Center-Forward",
+        "college": "SW Atlanta Christian Academy (GA)",
+        "points": "3.8",
+        "rebounds": "4.5",
+        "assists": "0.3",
+        "height": "6'10\" (2.08m)",
+        "weight": "265lb (120kg)",
+        "age": "35 years"
     }, {
-        "fname": "R.",
+        "player_id": "200765",
+        "fname": "Rajon",
         "lname": "Rondo",
-        "position": "",
-        "player_id": "200765"
+        "position": "Guard",
+        "college": "Kentucky",
+        "points": "5.7",
+        "rebounds": "2.0",
+        "assists": "3.7",
+        "height": "6'1\" (1.85m)",
+        "weight": "180lb (82kg)",
+        "age": "35 years"
     }, {
-        "fname": "W.",
+        "player_id": "201961",
+        "fname": "Wayne",
         "lname": "Ellington",
-        "position": "",
-        "player_id": "201961"
+        "position": "Guard",
+        "college": "North Carolina",
+        "points": "9.6",
+        "rebounds": "1.8",
+        "assists": "1.5",
+        "height": "6'4\" (1.93m)",
+        "weight": "207lb (94kg)",
+        "age": "33 years"
     }, {
-        "fname": "A.",
+        "player_id": "202340",
+        "fname": "Avery",
         "lname": "Bradley",
-        "position": "",
-        "player_id": "202340"
+        "position": "Guard",
+        "college": "Texas-Austin",
+        "points": "2.0",
+        "rebounds": "0.3",
+        "assists": "0.3",
+        "height": "6'3\" (1.91m)",
+        "weight": "180lb (82kg)",
+        "age": "30 years"
     }, {
-        "fname": "A.",
+        "player_id": "1630559",
+        "fname": "Austin",
         "lname": "Reaves",
-        "position": "",
-        "player_id": "1630559"
+        "position": "Guard",
+        "college": "Oklahoma",
+        "points": "7.3",
+        "rebounds": "0.7",
+        "assists": "1.3",
+        "height": "6'5\" (1.96m)",
+        "weight": "197lb (89kg)",
+        "age": "23 years"
     }, {
-        "fname": "T.",
+        "player_id": "2772",
+        "fname": "Trevor",
         "lname": "Ariza",
-        "position": "",
-        "player_id": "2772"
+        "position": "Forward",
+        "college": "UCLA",
+        "points": "9.4",
+        "rebounds": "4.8",
+        "assists": "1.8",
+        "height": "6'8\" (2.03m)",
+        "weight": "215lb (98kg)",
+        "age": "36 years"
     }, {
-        "fname": "K.",
+        "player_id": "1629134",
+        "fname": "Kendrick",
         "lname": "Nunn",
-        "position": "",
-        "player_id": "1629134"
+        "position": "Guard",
+        "college": "Oakland",
+        "points": "14.6",
+        "rebounds": "3.2",
+        "assists": "2.6",
+        "height": "6'2\" (1.88m)",
+        "weight": "190lb (86kg)",
+        "age": "26 years"
     }, {
-        "fname": "S.",
+        "player_id": "1629635",
+        "fname": "Sekou",
         "lname": "Doumbouya",
-        "position": "",
-        "player_id": "1629635"
+        "position": "Forward",
+        "college": "Limoges",
+        "points": "5.1",
+        "rebounds": "2.6",
+        "assists": "0.8",
+        "height": "6'8\" (2.03m)",
+        "weight": "230lb (104kg)",
+        "age": "20 years"
     }, {
-        "fname": "T.",
+        "player_id": "1629659",
+        "fname": "Talen",
         "lname": "Horton-Tucker",
-        "position": "",
-        "player_id": "1629659"
+        "position": "Guard",
+        "college": "Iowa State",
+        "points": "9.0",
+        "rebounds": "2.6",
+        "assists": "2.8",
+        "height": "6'4\" (1.93m)",
+        "weight": "234lb (106kg)",
+        "age": "20 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630643",
+        "fname": "Jay",
         "lname": "Huff",
-        "position": "",
-        "player_id": "1630643"
+        "position": "Center",
+        "college": "Virginia",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "7'1\" (2.16m)",
+        "weight": "240lb (109kg)",
+        "age": "24 years"
     }]
 }, {
     "city": "Sacramento",
@@ -696,268 +1522,625 @@
     "city": "Dallas",
     "name": "Mavericks",
     "roster": [{
-        "fname": "K.",
+        "player_id": "204001",
+        "fname": "Kristaps",
         "lname": "Porzingis",
-        "position": "PF",
-        "player_id": "204001"
+        "position": "Forward-Center",
+        "college": "Cajasol Sevilla",
+        "points": "12.7",
+        "rebounds": "6.0",
+        "assists": "0.7",
+        "height": "7'3\" (2.21m)",
+        "weight": "240lb (109kg)",
+        "age": "26 years"
     }, {
-        "fname": "L.",
+        "player_id": "1629029",
+        "fname": "Luka",
         "lname": "Doncic",
-        "position": "PG",
-        "player_id": "1629029"
+        "position": "Forward-Guard",
+        "college": "Real Madrid",
+        "points": "23.7",
+        "rebounds": "11.3",
+        "assists": "8.7",
+        "height": "6'7\" (2.01m)",
+        "weight": "230lb (104kg)",
+        "age": "22 years"
     }, {
-        "fname": "T.",
-        "lname": "Hardaway",
-        "position": "SG",
-        "player_id": "203501"
+        "player_id": "203501",
+        "fname": "Tim",
+        "lname": "Hardaway Jr.",
+        "position": "Guard-Forward",
+        "college": "Michigan",
+        "points": "18.3",
+        "rebounds": "2.3",
+        "assists": "0.7",
+        "height": "6'5\" (1.96m)",
+        "weight": "205lb (93kg)",
+        "age": "29 years"
     }, {
-        "fname": "D.",
+        "player_id": "1627827",
+        "fname": "Dorian",
         "lname": "Finney-Smith",
-        "position": "SF",
-        "player_id": "1627827"
+        "position": "Forward",
+        "college": "Florida",
+        "points": "7.3",
+        "rebounds": "7.3",
+        "assists": "1.7",
+        "height": "6'7\" (2.01m)",
+        "weight": "220lb (100kg)",
+        "age": "28 years"
     }, {
-        "fname": "D.",
+        "player_id": "203939",
+        "fname": "Dwight",
         "lname": "Powell",
-        "position": "C",
-        "player_id": "203939"
+        "position": "Forward-Center",
+        "college": "Stanford",
+        "points": "7.3",
+        "rebounds": "3.3",
+        "assists": "1.3",
+        "height": "6'10\" (2.08m)",
+        "weight": "240lb (109kg)",
+        "age": "30 years"
     }, {
-        "fname": "R.",
+        "player_id": "203493",
+        "fname": "Reggie",
         "lname": "Bullock",
-        "position": "",
-        "player_id": "203493"
+        "position": "Guard-Forward",
+        "college": "North Carolina",
+        "points": "6.7",
+        "rebounds": "2.7",
+        "assists": "0.3",
+        "height": "6'6\" (1.98m)",
+        "weight": "205lb (93kg)",
+        "age": "30 years"
     }, {
-        "fname": "T.",
+        "player_id": "203504",
+        "fname": "Trey",
         "lname": "Burke",
-        "position": "",
-        "player_id": "203504"
+        "position": "Guard",
+        "college": "Michigan",
+        "points": "2.5",
+        "rebounds": "0.5",
+        "assists": "1.5",
+        "height": "6'0\" (1.83m)",
+        "weight": "185lb (84kg)",
+        "age": "28 years"
     }, {
-        "fname": "W.",
+        "player_id": "1626161",
+        "fname": "Willie",
         "lname": "Cauley-Stein",
-        "position": "",
-        "player_id": "1626161"
+        "position": "Center",
+        "college": "Kentucky",
+        "points": "0.7",
+        "rebounds": "2.7",
+        "assists": "--",
+        "height": "7'0\" (2.13m)",
+        "weight": "240lb (109kg)",
+        "age": "28 years"
     }, {
-        "fname": "B.",
+        "player_id": "1626246",
+        "fname": "Boban",
         "lname": "Marjanovic",
-        "position": "",
-        "player_id": "1626246"
+        "position": "Center",
+        "college": "Crvena zvezda",
+        "points": "11.0",
+        "rebounds": "4.0",
+        "assists": "1.0",
+        "height": "7'3\" (2.21m)",
+        "weight": "290lb (132kg)",
+        "age": "33 years"
     }, {
-        "fname": "F.",
+        "player_id": "1628373",
+        "fname": "Frank",
         "lname": "Ntilikina",
-        "position": "",
-        "player_id": "1628373"
+        "position": "Guard",
+        "college": "Strasbourg IG",
+        "points": "1.0",
+        "rebounds": "0.5",
+        "assists": "1.0",
+        "height": "6'4\" (1.93m)",
+        "weight": "200lb (91kg)",
+        "age": "23 years"
     }, {
-        "fname": "S.",
+        "player_id": "1628425",
+        "fname": "Sterling",
         "lname": "Brown",
-        "position": "",
-        "player_id": "1628425"
+        "position": "Guard-Forward",
+        "college": "Southern Methodist",
+        "points": "1.0",
+        "rebounds": "3.0",
+        "assists": "0.3",
+        "height": "6'5\" (1.96m)",
+        "weight": "219lb (99kg)",
+        "age": "26 years"
     }, {
-        "fname": "M.",
+        "player_id": "1628467",
+        "fname": "Maxi",
         "lname": "Kleber",
-        "position": "",
-        "player_id": "1628467"
+        "position": "Forward",
+        "college": "Bayern Munich",
+        "points": "5.7",
+        "rebounds": "5.0",
+        "assists": "--",
+        "height": "6'10\" (2.08m)",
+        "weight": "240lb (109kg)",
+        "age": "29 years"
     }, {
-        "fname": "J.",
+        "player_id": "1628973",
+        "fname": "Jalen",
         "lname": "Brunson",
-        "position": "",
-        "player_id": "1628973"
+        "position": "Guard",
+        "college": "Villanova",
+        "points": "11.0",
+        "rebounds": "4.3",
+        "assists": "6.0",
+        "height": "6'1\" (1.85m)",
+        "weight": "190lb (86kg)",
+        "age": "25 years"
     }, {
-        "fname": "M.",
+        "player_id": "1629650",
+        "fname": "Moses",
         "lname": "Brown",
-        "position": "",
-        "player_id": "1629650"
+        "position": "Center",
+        "college": "UCLA",
+        "points": "3.0",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "7'2\" (2.18m)",
+        "weight": "245lb (111kg)",
+        "age": "22 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630182",
+        "fname": "Josh",
         "lname": "Green",
-        "position": "",
-        "player_id": "1630182"
+        "position": "Guard",
+        "college": "Arizona",
+        "points": "1.0",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'5\" (1.96m)",
+        "weight": "200lb (91kg)",
+        "age": "20 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630605",
+        "fname": "JaQuori",
         "lname": "McLaughlin",
-        "position": "",
-        "player_id": "1630605"
+        "position": "Guard",
+        "college": "California-Santa Barbara",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'4\" (1.93m)",
+        "weight": "190lb (86kg)",
+        "age": "23 years"
     }, {
-        "fname": "E.",
+        "player_id": "1630647",
+        "fname": "Eugene",
         "lname": "Omoruyi",
-        "position": "",
-        "player_id": "1630647"
+        "position": "Forward",
+        "college": "Oregon",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'6\" (1.98m)",
+        "weight": "235lb (107kg)",
+        "age": "24 years"
     }]
 }, {
     "city": "Houston",
     "name": "Rockets",
     "roster": [{
-        "fname": "C.",
+        "player_id": "1626174",
+        "fname": "Christian",
         "lname": "Wood",
-        "position": "PF",
-        "player_id": "1626174"
+        "position": "Forward",
+        "college": "UNLV",
+        "points": "20.8",
+        "rebounds": "12.3",
+        "assists": "2.0",
+        "height": "6'9\" (2.06m)",
+        "weight": "214lb (97kg)",
+        "age": "26 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630224",
+        "fname": "Jalen",
         "lname": "Green",
-        "position": "PG",
-        "player_id": "1630224"
+        "position": "Guard",
+        "college": "NBA G League Ignite",
+        "points": "14.5",
+        "rebounds": "4.0",
+        "assists": "2.5",
+        "height": "6'4\" (1.93m)",
+        "weight": "186lb (84kg)",
+        "age": "19 years"
     }, {
-        "fname": "K.",
-        "lname": "Porter",
-        "position": "SG",
-        "player_id": "1629645"
+        "player_id": "1629645",
+        "fname": "Kevin",
+        "lname": "Porter Jr.",
+        "position": "Guard-Forward",
+        "college": "Southern California",
+        "points": "14.3",
+        "rebounds": "3.5",
+        "assists": "6.0",
+        "height": "6'4\" (1.93m)",
+        "weight": "203lb (92kg)",
+        "age": "21 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630256",
+        "fname": "Jae'Sean",
         "lname": "Tate",
-        "position": "SF",
-        "player_id": "1630256"
+        "position": "Forward",
+        "college": "Ohio State",
+        "points": "9.0",
+        "rebounds": "7.0",
+        "assists": "3.0",
+        "height": "6'4\" (1.93m)",
+        "weight": "230lb (104kg)",
+        "age": "25 years"
     }, {
-        "fname": "D.",
+        "player_id": "1628464",
+        "fname": "Daniel",
         "lname": "Theis",
-        "position": "C",
-        "player_id": "1628464"
+        "position": "Forward-Center",
+        "college": "Brose Bamberg",
+        "points": "8.8",
+        "rebounds": "5.8",
+        "assists": "0.8",
+        "height": "6'9\" (2.06m)",
+        "weight": "245lb (111kg)",
+        "age": "29 years"
     }, {
-        "fname": "E.",
+        "player_id": "201569",
+        "fname": "Eric",
         "lname": "Gordon",
-        "position": "",
-        "player_id": "201569"
+        "position": "Guard",
+        "college": "Indiana",
+        "points": "15.3",
+        "rebounds": "1.8",
+        "assists": "1.3",
+        "height": "6'3\" (1.91m)",
+        "weight": "215lb (98kg)",
+        "age": "32 years"
     }, {
-        "fname": "D.",
+        "player_id": "201571",
+        "fname": "D.J.",
         "lname": "Augustin",
-        "position": "",
-        "player_id": "201571"
+        "position": "Guard",
+        "college": "Texas-Austin",
+        "points": "2.8",
+        "rebounds": "--",
+        "assists": "2.0",
+        "height": "5'11\" (1.80m)",
+        "weight": "183lb (83kg)",
+        "age": "33 years"
     }, {
-        "fname": "D.",
-        "lname": "House",
-        "position": "",
-        "player_id": "1627863"
+        "player_id": "1627863",
+        "fname": "Danuel",
+        "lname": "House Jr.",
+        "position": "Forward-Guard",
+        "college": "Texas A&M",
+        "points": "3.3",
+        "rebounds": "3.0",
+        "assists": "1.0",
+        "height": "6'6\" (1.98m)",
+        "weight": "220lb (100kg)",
+        "age": "28 years"
     }, {
-        "fname": "D.",
+        "player_id": "1628021",
+        "fname": "David",
         "lname": "Nwaba",
-        "position": "",
-        "player_id": "1628021"
+        "position": "Guard-Forward",
+        "college": "Cal Poly",
+        "points": "5.0",
+        "rebounds": "3.3",
+        "assists": "1.8",
+        "height": "6'5\" (1.96m)",
+        "weight": "219lb (99kg)",
+        "age": "28 years"
     }, {
-        "fname": "A.",
+        "player_id": "1629717",
+        "fname": "Armoni",
         "lname": "Brooks",
-        "position": "",
-        "player_id": "1629717"
+        "position": "Guard",
+        "college": "Houston",
+        "points": "6.0",
+        "rebounds": "--",
+        "assists": "0.5",
+        "height": "6'3\" (1.91m)",
+        "weight": "195lb (88kg)",
+        "age": "23 years"
     }, {
-        "fname": "K.",
-        "lname": "Martin",
-        "position": "",
-        "player_id": "1630231"
+        "player_id": "1630231",
+        "fname": "Kenyon",
+        "lname": "Martin Jr.",
+        "position": "Forward",
+        "college": "IMG Academy (FL)",
+        "points": "2.7",
+        "rebounds": "1.3",
+        "assists": "0.7",
+        "height": "6'5\" (1.96m)",
+        "weight": "215lb (98kg)",
+        "age": "20 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630528",
+        "fname": "Josh",
         "lname": "Christopher",
-        "position": "",
-        "player_id": "1630528"
+        "position": "Guard",
+        "college": "Arizona State",
+        "points": "3.0",
+        "rebounds": "1.0",
+        "assists": "0.3",
+        "height": "6'3\" (1.91m)",
+        "weight": "215lb (98kg)",
+        "age": "19 years"
     }, {
-        "fname": "A.",
+        "player_id": "1630578",
+        "fname": "Alperen",
         "lname": "Sengun",
-        "position": "",
-        "player_id": "1630578"
+        "position": "Center",
+        "college": "Besiktas",
+        "points": "7.3",
+        "rebounds": "3.8",
+        "assists": "2.3",
+        "height": "6'10\" (2.08m)",
+        "weight": "243lb (110kg)",
+        "age": "19 years"
     }, {
-        "fname": "U.",
+        "player_id": "1630586",
+        "fname": "Usman",
         "lname": "Garuba",
-        "position": "",
-        "player_id": "1630586"
+        "position": "Forward",
+        "college": "Real Madrid",
+        "points": "2.0",
+        "rebounds": "1.5",
+        "assists": "0.5",
+        "height": "6'8\" (2.03m)",
+        "weight": "229lb (104kg)",
+        "age": "19 years"
     }, {
-        "fname": "J.",
+        "player_id": "202322",
+        "fname": "John",
         "lname": "Wall",
-        "position": "",
-        "player_id": "202322"
+        "position": "Guard",
+        "college": "Kentucky",
+        "points": "20.6",
+        "rebounds": "3.2",
+        "assists": "6.9",
+        "height": "6'3\" (1.91m)",
+        "weight": "210lb (95kg)",
+        "age": "31 years"
     }, {
-        "fname": "G.",
+        "player_id": "1629726",
+        "fname": "Garrison",
         "lname": "Mathews",
-        "position": "",
-        "player_id": "1629726"
+        "position": "Guard",
+        "college": "Lipscomb",
+        "points": "5.5",
+        "rebounds": "1.4",
+        "assists": "0.4",
+        "height": "6'5\" (1.96m)",
+        "weight": "215lb (98kg)",
+        "age": "25 years"
     }, {
-        "fname": "D.",
+        "player_id": "1630227",
+        "fname": "Daishen",
         "lname": "Nix",
-        "position": "",
-        "player_id": "1630227"
+        "position": "Guard",
+        "college": "NBA G League Ignite",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'4\" (1.93m)",
+        "weight": "226lb (103kg)",
+        "age": "19 years"
     }]
 }, {
     "city": "San Antonio",
     "name": "Spurs",
     "roster": [{
-        "fname": "D.",
+        "player_id": "203926",
+        "fname": "Doug",
         "lname": "McDermott",
-        "position": "PF",
-        "player_id": "203926"
+        "position": "Forward",
+        "college": "Creighton",
+        "points": "11.5",
+        "rebounds": "2.0",
+        "assists": "0.8",
+        "height": "6'7\" (2.01m)",
+        "weight": "225lb (102kg)",
+        "age": "29 years"
     }, {
-        "fname": "D.",
+        "player_id": "1627749",
+        "fname": "Dejounte",
         "lname": "Murray",
-        "position": "PG",
-        "player_id": "1627749"
+        "position": "Guard",
+        "college": "Washington",
+        "points": "15.3",
+        "rebounds": "9.0",
+        "assists": "9.0",
+        "height": "6'4\" (1.93m)",
+        "weight": "180lb (82kg)",
+        "age": "25 years"
     }, {
-        "fname": "D.",
+        "player_id": "1628401",
+        "fname": "Derrick",
         "lname": "White",
-        "position": "SG",
-        "player_id": "1628401"
+        "position": "Guard",
+        "college": "Colorado",
+        "points": "13.3",
+        "rebounds": "3.3",
+        "assists": "6.5",
+        "height": "6'4\" (1.93m)",
+        "weight": "190lb (86kg)",
+        "age": "27 years"
     }, {
-        "fname": "K.",
+        "player_id": "1629640",
+        "fname": "Keldon",
         "lname": "Johnson",
-        "position": "SF",
-        "player_id": "1629640"
+        "position": "Forward-Guard",
+        "college": "Kentucky",
+        "points": "18.3",
+        "rebounds": "4.0",
+        "assists": "1.8",
+        "height": "6'6\" (1.98m)",
+        "weight": "220lb (100kg)",
+        "age": "22 years"
     }, {
-        "fname": "J.",
+        "player_id": "1627751",
+        "fname": "Jakob",
         "lname": "Poeltl",
-        "position": "C",
-        "player_id": "1627751"
+        "position": "Center",
+        "college": "Utah",
+        "points": "16.0",
+        "rebounds": "10.8",
+        "assists": "3.5",
+        "height": "7'1\" (2.16m)",
+        "weight": "245lb (111kg)",
+        "age": "26 years"
     }, {
-        "fname": "T.",
+        "player_id": "201152",
+        "fname": "Thaddeus",
         "lname": "Young",
-        "position": "",
-        "player_id": "201152"
+        "position": "Forward",
+        "college": "Georgia Tech",
+        "points": "1.0",
+        "rebounds": "0.5",
+        "assists": "0.5",
+        "height": "6'8\" (2.03m)",
+        "weight": "235lb (107kg)",
+        "age": "33 years"
     }, {
-        "fname": "B.",
+        "player_id": "1627854",
+        "fname": "Bryn",
         "lname": "Forbes",
-        "position": "",
-        "player_id": "1627854"
+        "position": "Guard",
+        "college": "Michigan State",
+        "points": "0.8",
+        "rebounds": "0.8",
+        "assists": "0.3",
+        "height": "6'2\" (1.88m)",
+        "weight": "205lb (93kg)",
+        "age": "28 years"
     }, {
-        "fname": "K.",
+        "player_id": "1628966",
+        "fname": "Keita",
         "lname": "Bates-Diop",
-        "position": "",
-        "player_id": "1628966"
+        "position": "Forward",
+        "college": "Ohio State",
+        "points": "4.3",
+        "rebounds": "3.0",
+        "assists": "--",
+        "height": "6'8\" (2.03m)",
+        "weight": "229lb (104kg)",
+        "age": "25 years"
     }, {
-        "fname": "L.",
-        "lname": "Walker",
-        "position": "",
-        "player_id": "1629022"
+        "player_id": "1629022",
+        "fname": "Lonnie",
+        "lname": "Walker IV",
+        "position": "Guard-Forward",
+        "college": "Miami",
+        "points": "15.3",
+        "rebounds": "3.5",
+        "assists": "3.3",
+        "height": "6'4\" (1.93m)",
+        "weight": "204lb (93kg)",
+        "age": "22 years"
     }, {
-        "fname": "J.",
+        "player_id": "1629111",
+        "fname": "Jock",
         "lname": "Landale",
-        "position": "",
-        "player_id": "1629111"
+        "position": "Center",
+        "college": "Australia",
+        "points": "0.5",
+        "rebounds": "0.5",
+        "assists": "0.5",
+        "height": "6'11\" (2.11m)",
+        "weight": "255lb (116kg)",
+        "age": "26 years"
     }, {
-        "fname": "D.",
+        "player_id": "1629234",
+        "fname": "Drew",
         "lname": "Eubanks",
-        "position": "",
-        "player_id": "1629234"
+        "position": "Forward-Center",
+        "college": "Oregon State",
+        "points": "3.8",
+        "rebounds": "4.5",
+        "assists": "1.8",
+        "height": "6'9\" (2.06m)",
+        "weight": "245lb (111kg)",
+        "age": "24 years"
     }, {
-        "fname": "D.",
+        "player_id": "1630170",
+        "fname": "Devin",
         "lname": "Vassell",
-        "position": "",
-        "player_id": "1630170"
+        "position": "Guard-Forward",
+        "college": "Florida State",
+        "points": "12.0",
+        "rebounds": "4.0",
+        "assists": "2.0",
+        "height": "6'5\" (1.96m)",
+        "weight": "200lb (91kg)",
+        "age": "21 years"
     }, {
-        "fname": "T.",
+        "player_id": "1630200",
+        "fname": "Tre",
         "lname": "Jones",
-        "position": "",
-        "player_id": "1630200"
+        "position": "Guard",
+        "college": "Duke",
+        "points": "2.0",
+        "rebounds": "--",
+        "assists": "0.3",
+        "height": "6'1\" (1.85m)",
+        "weight": "185lb (84kg)",
+        "age": "21 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630563",
+        "fname": "Joshua",
         "lname": "Primo",
-        "position": "",
-        "player_id": "1630563"
+        "position": "Guard",
+        "college": "Alabama",
+        "points": "2.5",
+        "rebounds": "0.5",
+        "assists": "--",
+        "height": "6'4\" (1.93m)",
+        "weight": "189lb (86kg)",
+        "age": "18 years"
     }, {
-        "fname": "Z.",
+        "player_id": "1628380",
+        "fname": "Zach",
         "lname": "Collins",
-        "position": "",
-        "player_id": "1628380"
+        "position": "Forward-Center",
+        "college": "Gonzaga",
+        "points": "7.0",
+        "rebounds": "6.3",
+        "assists": "1.5",
+        "height": "6'11\" (2.11m)",
+        "weight": "250lb (113kg)",
+        "age": "23 years"
     }, {
-        "fname": "D.",
+        "player_id": "1629719",
+        "fname": "Devontae",
         "lname": "Cacok",
-        "position": "",
-        "player_id": "1629719"
+        "position": "Forward",
+        "college": "North Carolina-Wilmington",
+        "points": "2.0",
+        "rebounds": "1.6",
+        "assists": "0.1",
+        "height": "6'7\" (2.01m)",
+        "weight": "240lb (109kg)",
+        "age": "25 years"
     }, {
-        "fname": "J.",
+        "player_id": "1630580",
+        "fname": "Joe",
         "lname": "Wieskamp",
-        "position": "",
-        "player_id": "1630580"
+        "position": "Guard-Forward",
+        "college": "Iowa",
+        "points": "--",
+        "rebounds": "--",
+        "assists": "--",
+        "height": "6'6\" (1.98m)",
+        "weight": "205lb (93kg)",
+        "age": "22 years"
     }]
 }, {
     "city": "New Orleans",
