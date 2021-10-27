@@ -18,6 +18,8 @@ def getPlayerData(pid):
     temp_dict["weight"] = player_info_dict["player_weight"]
     temp_dict["age"] = player_info_dict["player_age"]
     
+    if os.path.exists(f"downloads/players/player{pid}.html"):
+        os.remove(f"downloads/players/player{pid}.html")
 
     return temp_dict
 
@@ -31,8 +33,8 @@ def getInfoViaID(pid):
         for data_chunk in request.iter_content(100000):
             player_data.write(data_chunk)
 
-    player_page = open(f"downloads/players/player{pid}.html", errors="ignore")
-    player_soup = BeautifulSoup(player_page, 'lxml')
+    with open(f"downloads/players/player{pid}.html", errors="ignore") as player_page:
+        player_soup = BeautifulSoup(player_page, 'lxml')
 
     player_first_name =     player_soup.findAll("p", {"class": "PlayerSummary_playerNameText__K7ZXO"})[0].text
     player_last_name =      player_soup.findAll("p", {"class": "PlayerSummary_playerNameText__K7ZXO"})[1].text

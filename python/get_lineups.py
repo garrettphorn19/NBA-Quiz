@@ -53,6 +53,8 @@ for curr_team in my_teams: # Loops through the teams playing today
         if team["city"] == curr_team_city: # Looks for the current team from the JSON to update
             team["roster"] = curr_team_roster # Updates the roster on the JSON file with todays roster
 
+    print(f"FINISHED {curr_team_city}")
+
 
 with open("./json/nba_teams.json", "w") as output_file: # Opens the JSON file for writing
     json.dump(nba_teams, output_file) # Overwrites the new information on the JSON File
