@@ -1,22 +1,6 @@
 import requests, os
 from bs4 import BeautifulSoup
 
-def getPlayerData2(player, position, pid):
-    temp_dict = {} # Temporary ditionary for players information
-
-    curr_player = player.text # Gets the players full name
-    curr_player_fname = curr_player.split(" ")[0] # Gets the players first name
-    curr_player_lname = curr_player.split(" ")[1] # Gets the players last name
-    curr_position = position.text # Gets the players position
-    curr_player_id = pid
-    
-    temp_dict["fname"] = curr_player_fname # Adds players first name to the dict
-    temp_dict["lname"] = curr_player_lname # Adds players last name to the dict
-    temp_dict["position"] = curr_position # Adds players position to the dict
-    temp_dict["player_id"] = curr_player_id
-
-    return temp_dict
-
 def getPlayerData(pid):
     temp_dict = {}
 
