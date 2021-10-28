@@ -1,0 +1,27 @@
+:root {
+    --navy: #002244;
+    --green: #69BE28;
+    --gray: #A5ACAF;
+}
+
+body {
+    background-color: var(--navy);
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+    color: var(--green);
+    padding: 7% 15% 3%
+}
+
+.mode-button {
+    border-color: var(--green);
+    color: var(--green);
+    margin: 1% .5%
+}
+
+.mode-button:hover {
+    background-color: var(--green);
+    color: var(--navy);
+}
