@@ -12,7 +12,9 @@ body {
 
 .title {
     color: var(--green);
-    padding: 7% 15% 3%
+    padding: 7% 15% 3%;
+    font-size: 3em;
+    font-weight: 900;
 }
 
 .mode-button {
