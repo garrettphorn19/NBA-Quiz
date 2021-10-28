@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup
 
 from functions.func_lib import *
 
+os.chdir("C:\\Users\\Garrett Horn\\Documents\\NBA-Quiz\\")
+
 lineup_url = "https://www.nba.com/players/todays-lineups/" # URL where player information is stored on NBA.com
 request = requests.get(lineup_url) # Sends request to that website
 
