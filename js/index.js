@@ -13,6 +13,7 @@ function readTextFile(file, callback) {
 readTextFile("./json/nba_teams.json", function(text){
     var teamData = JSON.parse(text);
 
-    
-    
+    for (var i=0; i<teamData.length; i++) {
+        console.log(teamData[i])
+    }
 });
