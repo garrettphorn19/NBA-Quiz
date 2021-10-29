@@ -1,0 +1,61 @@
+:root {
+    --navy: #002244;
+    --green: #69BE28;
+    --gray: #A5ACAF;
+}
+
+body {
+    background-color: var(--green);
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+    color: var(--navy);
+    padding: 7% 15% 3%;
+    font-size: 3em;
+    font-weight: 900;
+}
+
+.mode-button {
+    border-radius: 15px;
+    background: #69BE28;
+    box-shadow:  20px 20px 61px #427819,
+                 -20px -20px 61px #90ff37;
+    height: 150px;
+    width: 200px;
+    margin: 2% 2%
+}
+
+.mode-button:hover {
+    border-radius: 15px;
+    background: linear-gradient(145deg, #5fab24, #70cb2b);
+    box-shadow:  28px 28px 56px #427819,
+                -28px -28px 56px #90ff37;
+}
+
+.mode-button:active, .mode-button:focus {
+    outline: 0;
+    border: none;
+    box-shadow: none;
+    border-radius: 15px;
+    background: #69BE28;
+    box-shadow: inset 20px 20px 61px #427819,
+                inset -20px -20px 61px #90ff37;
+}
+
+#all-teams-mode {
+    display: none;
+}
+
+#points-mode {
+    display: none;
+}
+
+#rebound-mode {
+    display: none;
+}
+
+#assist-mode {
+    display: none;
+}
