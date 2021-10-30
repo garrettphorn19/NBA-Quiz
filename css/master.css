@@ -1,6 +1,6 @@
 :root {
     --navy: #002244;
-    --green: #69BE28;
+    --green: #e0e0e0;
     --gray: #A5ACAF;
 }
 
@@ -19,9 +19,9 @@ body {
 
 .mode-button {
     border-radius: 15px;
-    background: #69BE28;
-    box-shadow:  20px 20px 61px #427819,
-                 -20px -20px 61px #90ff37;
+    background: #e0e0e0;
+    box-shadow:  20px 20px 61px #bebebe,
+                 -20px -20px 61px #fff;
     height: 150px;
     width: 200px;
     margin: 2% 2%
@@ -29,9 +29,9 @@ body {
 
 .mode-button:hover {
     border-radius: 15px;
-    background: linear-gradient(145deg, #5fab24, #70cb2b);
-    box-shadow:  28px 28px 56px #427819,
-                -28px -28px 56px #90ff37;
+    background: linear-gradient(145deg, #cacaca, #f0f0f0);
+    box-shadow:  28px 28px 56px #bebebe,
+                -28px -28px 56px #fff;
 }
 
 .mode-button:active, .mode-button:focus {
@@ -39,9 +39,9 @@ body {
     border: none;
     box-shadow: none;
     border-radius: 15px;
-    background: #69BE28;
-    box-shadow: inset 20px 20px 61px #427819,
-                inset -20px -20px 61px #90ff37;
+    background: #e0e0e0;
+    box-shadow: inset 20px 20px 61px #bebebe,
+                inset -20px -20px 61px #fff;
 }
 
 #choose-mode-section {

@@ -35,7 +35,7 @@ function readTextFile(file, callback) {
 readTextFile("./json/nba_teams.json", function (text) {
     var allTeams = JSON.parse(text);
 
-    var topScorers = getTop(allTeams, 30, "points")
+    var topScorers = getTop(allTeams,30, "points")
     loadPointsMode(topScorers);
     var topRebounders = getTop(allTeams, 30, "rebounds")
     loadReboundsMode(topRebounders);
